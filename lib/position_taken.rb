@@ -1,10 +1,10 @@
 # code your #position_taken? method here!
 def position_taken?(board, index)
-  if " "
+  if "X" || "O"
     false
   elsif nil 
     false
-  elsif "X" || "O"
+  elsif 
    true 
   else
     nil
