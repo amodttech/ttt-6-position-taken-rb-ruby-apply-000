@@ -2,6 +2,8 @@
 def position_taken?(board, index)
   if " "
     FALSE
+  elsif nil 
+    false
   else
 end
 end
